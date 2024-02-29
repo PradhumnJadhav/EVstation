@@ -1,0 +1,21 @@
+{
+    "welcome": "欢迎还",
+
+    "signin": "登录",
+    
+    "email": "电子邮件",
+    
+    "signup": "登记",
+    
+    "fpassword": "忘密码",
+    
+    "password": "密码",
+    
+    "name": "名",
+    
+    "create": "创建账户",
+
+    "warning": "字段为空",
+
+    "created": "欢迎,新用户"
+}

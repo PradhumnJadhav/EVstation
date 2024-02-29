@@ -1,0 +1,42 @@
+{
+    "welcome": "Welcome\nBack",
+    "@name":{
+        "description": "The current gesture"
+    },
+    "signin": "Sign in",
+    "@signin":{
+        "description": "The current Language"
+    },
+    "email": "Email",
+    "@email":{
+        "description": "The current gesture"
+    },
+    "signup": "Sign Up",
+    "@signup":{
+        "description": "The current gesture"
+    },
+    "fpassword": "Forgot Password",
+    "@fpassword":{
+        "description": "The current gesture"
+    },
+    "password": "Password",
+    "@password":{
+        "description": "The current gesture"
+    },
+    "name": "Name",
+    "@name":{
+        "description": "The Name"
+    },
+    "create": "Create\nAccount",
+    "@create":{
+        "description": "The current gesture"
+    },
+    "warning": "fields are empty",
+    "@warning":{
+        "description": "The current gesture"
+    },
+    "created": "Welcome, new User",
+    "@created":{
+        "description": "The current gesture"
+    }
+}
