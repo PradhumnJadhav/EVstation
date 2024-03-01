@@ -11,9 +11,9 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:log_in/ui_helper.dart';
 
-void main() async {
+void main()  {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+   Firebase.initializeApp();
       runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
   initialRoute: 'login',
